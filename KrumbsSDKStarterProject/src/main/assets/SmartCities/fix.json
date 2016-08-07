@@ -1,0 +1,68 @@
+{
+  "intents": [
+    {
+      "Food&Water": {
+        "synonyms": [
+          "Serving meal",
+          "Serving snack",
+          "Serving water"
+        ],
+        "unicode": "1f6af",
+        "expression_id": 1,
+        "resource_name": "resource_food",
+        "resource_uri": "resources/resource_food.png"
+      }
+    },
+
+    {
+      "Medication": {
+        "synonyms": [
+          "Refreshing",
+          "Safe to drink"
+        ],
+        "unicode": "1f6b0",
+        "expression_id": 2,
+        "resource_name": "resource_med",
+        "resource_uri": "resources/resource_med.png"
+      }
+    },
+
+    {
+      "Shelter": {
+        "synonyms": [
+          "Running Tap",
+          "Don't Waste Water"
+        ],
+        "unicode": "1f621",
+        "expression_id": 3,
+        "resource_name": "resource_shelter",
+        "resource_uri": "resources/resource_shelter.png"
+      }
+    },
+    {
+      "Transport": {
+        "synonyms": [
+          "Running Tap",
+          "Don't Waste Water"
+        ],
+        "unicode": "1f621",
+        "expression_id": 4,
+        "resource_name": "resource_transport",
+        "resource_uri": "resources/resource_transport.png"
+      }
+    },
+    {
+      "Supply": {
+        "synonyms": [
+          "Distribute home supply",
+          "Distribute clothes"
+        ],
+        "unicode": "1f6af",
+        "expression_id": 5,
+        "resource_name": "resource_supply",
+        "resource_uri": "resources/resource_supply.png"
+      }
+    }
+  ]
+}
+

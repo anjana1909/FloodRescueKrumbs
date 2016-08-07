@@ -1,0 +1,18 @@
+{
+    "Social": {
+       "index": 2,
+        "intents_file": "Social.json"
+    },
+    "Issues": {
+        "index": 3,
+        "intents_file": "Issues.json"
+    },
+    "Help": {
+       "index": 4,
+        "intents_file": "Help.json"
+    },
+    "Lost and Found": {
+        "index": 5,
+        "intents_file": "LostandFound.json"
+    }
+}

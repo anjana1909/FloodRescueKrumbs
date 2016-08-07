@@ -1,0 +1,1672 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":{ 
+                    "lon":80.19507899999996,
+                    "lat":13.336608 
+                }
+            },
+            "properties": {
+                "id":1,  
+		"name": "VELAMMAL CRICKET ACADEMY" 
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.22479580000004,
+                    "lat":13.0925997
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Annanagar East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1679183,
+                    "lat":13.2368389
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Cholavaram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.27115879999997,
+                    "lat":13.2018671
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Edayanchavadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.32029290000003,
+                    "lat":13.2145944
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ennore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.30390020000004,
+                    "lat":13.1895685
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ernavur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.27324909999993,
+                    "lat":13.1299689
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ezhil Nagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.31817699999999,
+                    "lat":13.216132500000002
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kathivakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.21429360000003,
+                    "lat":13.1204001
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kolathur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2309861,
+                    "lat":13.147819
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Madhavaram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.26371919999998,
+                    "lat":13.269188
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Minjur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2800856,
+                    "lat":13.1035392
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2850929,
+                    "lat":13.2622949
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Nandiambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.27379900000005,
+                    "lat":13.226418
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Napalayam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.29016380000007,
+                    "lat":13.1123675
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Old Washermanpet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.23166459999993,
+                    "lat":13.1160178
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Perambur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.29960140000003,
+                    "lat":13.2494651
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Athipattu Pudunagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.31852520000007,
+                    "lat":13.4177382
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pulicat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19669299999998,
+                    "lat":13.1992334
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Redhills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.29613130000007,
+                    "lat":13.1135547
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Royapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.29002930000001,
+                    "lat":13.1272176
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Tondiarpet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.3045793,
+                    "lat":13.1691914
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Tiruvottiyur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.20494069999995,
+                    "lat":13.1090452
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Villivakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.25943869999992,
+                    "lat":13.1183187
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Vyasarpadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2783723,
+                    "lat":13.1320393
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Washermanpet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.25412649999998,
+                    "lat":13.0897135
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Purasawalkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.28021620000004,
+                    "lat":13.0903421
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Sowcarpet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.26419099999998,
+                    "lat":13.0918726
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Choolai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.24151619999998,
+                    "lat":13.071521
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Chetpet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.27799660000007,
+                    "lat":13.1185502
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Korukkupet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.24162980000006,
+                    "lat":13.1295676
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Moolakadai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1810617,
+                    "lat":13.1156777
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Korattur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.22530370000005,
+                    "lat":13.1339078
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ponniammanmedu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.26070679999998,
+                    "lat":13.0853311
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Vepery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.17407989999992,
+                    "lat":13.0783724
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mogappair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.25860880000005,
+                    "lat":13.1635785
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Manali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.23770779999995,
+                    "lat":13.2005898
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Vichoor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.09695110000007,
+                    "lat":13.1067448
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Avadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.13724309999998,
+                    "lat":13.0924679
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ayappakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.13845730000003,
+                    "lat":13.0303351
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Iyyappanthangal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.05908039999997,
+                    "lat":13.0114448
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Chembarambakkam Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":79.99228389999996,
+                    "lat":13.065029000000001
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Gudapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.12671360000002,
+                    "lat":13.0413894
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kattupakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1810617,
+                    "lat":13.1156777
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Korattur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.09720029999994,
+                    "lat":12.997668
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kundrathur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.01157009999997,
+                    "lat":13.0295314
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kuthambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.17591530000004,
+                    "lat":13.0161218
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Manapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1087331,
+                    "lat":13.024572
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mangadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":79.98920339999995,
+                    "lat":13.0115939
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mevalurkuppam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19727020000005,
+                    "lat":13.0352253
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "MGR Nagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.17407989999992,
+                    "lat":13.0783724
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mogappair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.12401539999996,
+                    "lat":13.10148
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Narayanapuram, Annanur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":79.97661949999997,
+                    "lat":13.029599700000002
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Nayapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.16797580000004,
+                    "lat":13.075397
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Nolambur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.09453069999995,
+                    "lat":13.0472609
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Poonamallee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.15960410000002,
+                    "lat":13.0380627
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Porur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.15403790000005,
+                    "lat":13.0178439
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ramapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.08422240000004,
+                    "lat":12.992492
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Sikkarayapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.11773349999999,
+                    "lat":12.9994643
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thandalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.0618743,
+                    "lat":13.0485498
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thirumazhisai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.13367019999998,
+                    "lat":13.1386541
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thirumullaivoyal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.03071729999999,
+                    "lat":13.1197998
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thirunindravur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.12897880000003,
+                    "lat":13.0706365
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thiruverkkadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.00176039999997,
+                    "lat":13.1294123
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Veppampattu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.05908039999997,
+                    "lat":13.0683684
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Voyalanallur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.04044240000007,
+                    "lat":13.0712759
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Melmanambedu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.08980850000002,
+                    "lat":12.9699459
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thirumudivakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.08003250000002,
+                    "lat":12.9823738
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kollacheri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.07835950000003,
+                    "lat":12.965                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Palanthandalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.04091779999999,
+                    "lat":12.9524303
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Somangalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.00318330000005,
+                    "lat":12.9637774
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Katrambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.08073089999993,
+                    "lat":12.9546654
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Erumaiyur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.04044240000007,
+                    "lat":13.0712759
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Melmanambedu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.02624519999995,
+                    "lat":13.077774
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Nemam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1295073,
+                    "lat":12.9821793
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Anakaputhur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.23010190000002,
+                    "lat":12.8585272
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "J10 Chemmenchery Police Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1426805,
+                    "lat":12.9324505
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Chitlapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.07025550000003,
+                    "lat":12.8412615
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Guduvancherry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.14607750000005,
+                    "lat":12.9387231
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Hasthinapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.21348920000003,
+                    "lat":12.7863825
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kelambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2016539,
+                    "lat":12.9653632
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Madipakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.17136040000003,
+                    "lat":12.867995
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Madurapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.16837759999999,
+                    "lat":12.8360222
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.04975050000007,
+                    "lat":12.918203700000001
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Manimangalam Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.06570039999997,
+                    "lat":12.8968173
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mannivakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.16239480000002,
+                    "lat":12.8532676
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Moolacheri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.08721689999993,
+                    "lat":12.91974
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Mudichur Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2059868,
+                    "lat":12.9419949
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Narayanapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.22546299999999,
+                    "lat":12.8447728
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Navallur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19127970000001,
+                    "lat":12.8622191
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Ottiyambakkam Bus Stop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.01704930000005,
+                    "lat":12.8881131
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Padapai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.15268879999996,
+                    "lat":12.9673484
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pallavaram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.21076310000001,
+                    "lat":12.934797
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pallikaranai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.13684349999994,
+                    "lat":12.9780731
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pammal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19688080000003,
+                    "lat":12.9007274
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Perumbakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.07653830000004,
+                    "lat":12.9167393
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Perungalathur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.22793009999998,
+                    "lat":12.9009877
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Sholinganallur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19233860000008,
+                    "lat":12.8820669
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Sithalapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.1274558,
+                    "lat":12.9229153
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Tambaram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.22120919999998,
+                    "lat":12.975971                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Velachery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.21098400000005,
+                    "lat":12.879169
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Chemencherry Arch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2036167,
+                    "lat":12.8360622
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Siruseri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19640019999997,
+                    "lat":12.8091402
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pudupakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.20703279999998,
+                    "lat":12.8549426
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thalambur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.2036167,
+                    "lat":12.8360622
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Siruseri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.19640019999997,
+                    "lat":12.8091402
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Pudupakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.20703279999998,
+                    "lat":12.8549426
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Thalambur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.13294120000002,
+                    "lat":12.873254
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Vengambakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.07025550000003,
+                    "lat":12.8412615
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Guduvancherry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.18448149999995,
+                    "lat":13.0732465
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Nerkundram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.14084869999999,
+                    "lat":12.908025
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Selaiyur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.10842170000001,
+                    "lat":12.8675984
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Kolapakkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.15541800000005,
+                    "lat":12.8828537
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Paduvanchery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":80.11633749999999,
+                    "lat":12.8927485
+                    
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Alappakam"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":-117.735184,
+                    "lat":33.628748
+
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Laguna Hills"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":-122.630603,
+                    "lat":38.965995
+
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Clear Lake"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":-117.947144,
+                    "lat":33.892988
+
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Whittler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":-117.836709,
+                    "lat":33.750301
+
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Santa Ana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  {
+                    "lon":-116.817980,
+                    "lat":32.860208
+
+                }
+            },
+            "properties": {
+                "id":1,  "name": "Los Coches"
+            }
+        }
+    ]
+}

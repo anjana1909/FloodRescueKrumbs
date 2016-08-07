@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      "Celebrating": {
+        "synonyms": [
+          "Weekend get together",
+          "Birthday party",
+          "BBQ"
+        ],
+        "unicode": "1f64c",
+        "expression_id": 1,
+        "resource_name": "emoji_1f64c"
+      }
+    },
+    {
+      "Kids": {
+        "synonyms": [
+          "They grow so fast!",
+          "Enjoying themselves"
+        ],
+        "unicode": "1f603",
+        "expression_id": 2,
+        "resource_name": "emoji_1f603"
+      }
+    },
+    {
+      "Meals": {
+        "synonyms": [
+          "I have extra food",
+          "Please help me finish this",
+          "Anyone want something from here?"
+        ],
+        "unicode": "1f37d",
+        "expression_id": 3,
+        "resource_name": "emoji_1f37d"
+      }
+    },
+    {
+      "Movie Night": {
+        "synonyms": [
+          "Movie night with friends",
+          "Movie night with family",
+          "Love this community for movie nights!",
+          "Fun times"
+        ],
+        "unicode": "1f4fd",
+        "expression_id": 4,
+        "resource_name": "emoji_1f4fd"
+      }
+    },
+    {
+      "Performances": {
+        "synonyms": [
+          "So talented!",
+          "Amazing",
+          "Great to see"
+        ],
+        "unicode": "1f3ad",
+        "expression_id": 5,
+        "resource_name": "emoji_1f3ad"
+      }
+    }
+  ]
+}
+
+       

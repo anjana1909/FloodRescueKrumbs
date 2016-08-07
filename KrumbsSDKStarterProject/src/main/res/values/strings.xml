@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016 Krumbs Inc
+  ~ All rights reserved.
+  ~
+  -->
+<resources>
+    <string name="krumbssdk_app_id">24vLGj1RAl4B6XFKsbhqnyj5HG5GMtZfgshwF3uI</string>
+    <string name="krumbssdk_client_key">k7cqvOmZFDNegfqNfWFcc0DcbfH4j05X0vYjzNi7</string>
+
+    <string name="app_name">Flood Rescue</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="krumbs_sdk_app">Flood Rescue</string>
+    <string name="action_settings">Settings</string>
+    <string name="kcapturebuttonLabel">Start K-Capture</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

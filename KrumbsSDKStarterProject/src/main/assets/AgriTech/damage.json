@@ -1,0 +1,69 @@
+{
+  "intents": [
+    {
+      "Mild": {
+        "synonyms": [
+          "Need to attend to this",
+          "Need to add more support for crops",
+          "Rain Damage",
+          "Caused by Hurricane Damage",
+          "Caused by Tornado Damage"
+        ],
+        "unicode": "1f331",
+        "expression_id": 1,
+        "resource_name": "emoji_1f331"
+      }
+    },
+    {
+      "Medium": {
+        "synonyms": [
+          "Don't forget about this, it could get worse",
+          "Need to do something about this",
+          "Rain Damage",
+          "Caused by Hurricane Damage",
+          "Caused by Tornado Damage"
+        ],
+        "unicode": "1f327",
+        "expression_id": 2,
+        "resource_name": "emoji_1f327"
+      }
+    },
+    {
+      "Help": {
+        "synonyms": [
+          "This is out of control",
+          "Please help me"
+        ],
+        "unicode": "1f914",
+        "expression_id": 3,
+        "resource_name": "emoji_1f914"
+      }
+    },
+    {
+      "Bad": {
+        "synonyms": [
+          "Needs attention",
+          "This is bad",
+          "This is a setback"
+        ],
+        "unicode": "1f622",
+        "expression_id": 4,
+        "resource_name": "emoji_1f622"
+      }
+    },
+    {
+      "Very Bad": {
+        "synonyms": [
+          "Nightmare",
+          "How can this happen",
+          "Need immediate assistance"
+        ],
+        "unicode": "26c8",
+        "expression_id": 5,
+        "resource_name": "emoji_26c8"
+      }
+    }
+  ]
+}
+
+       

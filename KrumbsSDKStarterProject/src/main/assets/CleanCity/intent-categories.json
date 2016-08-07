@@ -1,0 +1,14 @@
+﻿{
+  "Clean": {
+    "index": 1,
+    "intents_file": "clean.json"
+  },
+  "Fix": {
+    "index": 2,
+    "intents_file": "fix.json"
+  },
+  "Safety": {
+    "index": 3,
+    "intents_file": "safety.json"
+  }
+}

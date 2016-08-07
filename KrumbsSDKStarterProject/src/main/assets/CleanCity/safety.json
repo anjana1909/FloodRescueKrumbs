@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "Crime": {
+        "synonyms": [
+          "Robbery",
+          "Vandalism",
+          "This area isn't safe",
+          "I don't feel safe here"
+        ],
+        "unicode": "1f628",
+        "expression_id": 1,
+        "resource_name": "emoji_1f628"
+      }
+    },
+    {
+      "Help": {
+        "synonyms": [
+          "Bad area!",
+          "Emergency",
+          "Someone Help Me"
+        ],
+        "unicode": "1f6a8",
+        "expression_id": 2,
+        "resource_name": "emoji_1f6a8"
+      }
+    },
+    {
+      "Patrol": {
+        "synonyms": [
+          "Need more patrol here",
+          "This area needs more officers"
+        ],
+        "unicode": "1f693",
+        "expression_id": 3,
+        "resource_name": "emoji_1f693"
+      }
+    },
+    {
+      "Beware": {
+        "synonyms": [
+          "Scary area",
+          "Avoid in the night",
+          "Don't come here alone"
+        ],
+        "unicode": "26a0",
+        "expression_id": 4,
+        "resource_name": "emoji_26a0"
+      }
+    },
+    {
+      "Safe Area": {
+        "synonyms": [
+          "Paradise",
+          "This is Memphis!",
+          "Perfect"
+        ],
+        "unicode": "1f642",
+        "expression_id": 5,
+        "resource_name": "emoji_1f642"
+      }
+    }
+  ]
+}

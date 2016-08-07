@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "Dog": {
+        "synonyms": [
+          "Found this puppy",
+          "Whose cute puppy?"
+        ],
+        "unicode": "1f436",
+        "expression_id": 1,
+        "resource_name": "emoji_1f436"
+      }
+    },
+    {
+      "Cat": {
+        "synonyms": [
+          "Found this cat",
+          "Whose cute cat?"
+        ],
+        "unicode": "1f431",
+        "expression_id": 2,
+        "resource_name": "emoji_1f431"
+      }
+    },
+    {
+      "Keys": {
+        "synonyms": [
+          "Whose House Keys?",
+          "Whose Car keys"
+        ],
+        "unicode": "1f511",
+        "expression_id": 3,
+        "resource_name": "emoji_1f511"
+      }
+    },
+    {
+      "Bag": {
+        "synonyms": [
+          "Whose Bag?",
+          "Someone missing a bag?"
+        ],
+        "unicode": "1f392",
+        "expression_id": 4,
+        "resource_name": "emoji_1f392"
+      }
+    },
+    {
+      "Mobile": {
+        "synonyms": [
+          "Whose Shiny Android?",
+          "Whose Shiny iPhone",
+          "Someone missing a gadget?"
+        ],
+        "unicode": "1f4f1",
+        "expression_id": 5,
+        "resource_name": "emoji_1f4f1"
+      }
+    }
+  ]
+}

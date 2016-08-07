@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "Dog": {
+        "synonyms": [
+          "Need a dogsitter",
+          "Can someone watch my baby?"
+        ],
+        "unicode": "1f436",
+        "expression_id": 1,
+        "resource_name": "emoji_1f436"
+      }
+    },
+    {
+      "House": {
+        "synonyms": [
+          "Maid suggestions?",
+          "Need a maid!"
+        ],
+        "unicode": "1f3e0",
+        "expression_id": 2,
+        "resource_name": "emoji_1f3e0"
+      }
+    },
+    {
+      "Car": {
+        "synonyms": [
+          "Car trouble,help!",
+          "Need a ride"
+        ],
+        "unicode": "1f697",
+        "expression_id": 3,
+        "resource_name": "emoji_1f697"
+      }
+    },
+    {
+      "Health": {
+        "synonyms": [
+          "Sick, need help",
+          "Anyone know what to do?",
+          "Need medical assistance"
+        ],
+        "unicode": "1f912",
+        "expression_id": 4,
+        "resource_name": "emoji_1f912"
+      }
+    },
+    {
+      "Shopping": {
+        "synonyms": [
+          "Best place to buy something like this?",
+          "Anyone selling something like this?"
+        ],
+        "unicode": "1f6cd",
+        "expression_id": 5,
+        "resource_name": "emoji_1f6cd"
+      }
+    }
+  ]
+}

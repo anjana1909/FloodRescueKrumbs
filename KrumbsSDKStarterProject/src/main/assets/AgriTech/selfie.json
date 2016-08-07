@@ -1,0 +1,61 @@
+﻿{
+  "intents": [
+    {
+      "Sad": {
+        "synonyms": [
+          "Why is this happening",
+          "This isn't good",
+          " Any advice?"
+        ],
+        "unicode": "1f622",
+        "expression_id": 1,
+        "resource_name": "emoji_1f622"
+      }
+    },
+    {
+      "Great": {
+        "synonyms": [
+          "This is great",
+          "Made my day",
+          " Amazing!"
+        ],
+        "unicode": "1f600",
+        "expression_id": 2,
+        "resource_name": "emoji_1f600"
+      }
+    },
+    {
+      "Miss You": {
+        "synonyms": [
+          "Almost done...",
+          "Miss you and the family"
+        ],
+        "unicode": "1f917",
+        "expression_id": 3,
+        "resource_name": "emoji_1f917"
+      }
+    },
+    {
+      "Tired": {
+        "synonyms": [
+          "So tired",
+          "Exhausted"
+        ],
+        "unicode": "1f634",
+        "expression_id": 4,
+        "resource_name": "emoji_1f634"
+      }
+    },
+    {
+      "Wow": {
+        "synonyms": [
+          "What a day",
+          "Shocked"
+        ],
+        "unicode": "1f632",
+        "expression_id": 5,
+        "resource_name": "emoji_1f632"
+      }
+    }
+  ]
+}

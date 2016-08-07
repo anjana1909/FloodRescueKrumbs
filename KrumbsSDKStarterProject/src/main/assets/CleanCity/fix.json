@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "Roads": {
+        "synonyms": [
+          "Dangerous potholes",
+          "Can't drive on these roads"
+        ],
+        "unicode": "2757",
+        "expression_id": 1,
+        "resource_name": "emoji_2757"
+      }
+    },
+    {
+      "Buildings": {
+        "synonyms": [
+          "This looks run down",
+          "Doesn't represent the city well",
+          "Lights are flickering",
+          "Toilets aren't working"
+        ],
+        "unicode": "1f3e2",
+        "expression_id": 2,
+        "resource_name": "emoji_1f3e2"
+      }
+    },
+    {
+      "Lights": {
+        "synonyms": [
+          "Replace the lights here",
+          "Can't see anything here",
+          "Safety Hazard"
+        ],
+        "unicode": "1f4a1",
+        "expression_id": 3,
+        "resource_name": "emoji_1f4a1"
+      }
+    },
+    {
+      "Homes": {
+        "synonyms": [
+          "Homes look rundown",
+          "Doesn't represent the city",
+          "Doors look bad"
+        ],
+        "unicode": "1f3da",
+        "expression_id": 4,
+        "resource_name": "emoji_1f3da"
+      }
+    },
+    {
+      "Parks": {
+        "synonyms": [
+          "Fix this park",
+          "This place used to be fun",
+          "Nothing works"
+        ],
+        "unicode": "1f629",
+        "expression_id": 5,
+        "resource_name": "emoji_1f629"
+      }
+    }
+  ]
+}

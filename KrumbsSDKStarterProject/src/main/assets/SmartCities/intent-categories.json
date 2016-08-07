@@ -1,0 +1,1 @@
+{  "Flood": {    "index": 1,    "intents_file": "health.json"  },  "Need": {    "index": 2,    "intents_file": "water.json"  },  "Resources": {    "index": 3,    "intents_file": "fix.json"  }}

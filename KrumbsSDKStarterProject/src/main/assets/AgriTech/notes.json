@@ -1,0 +1,59 @@
+{
+  "intents": [
+    {
+      "Help": {
+        "synonyms": [
+          "Ask experts",
+          "This is critical"
+        ],
+        "unicode": "1f914",
+        "expression_id": 1,
+        "resource_name": "emoji_1f914"
+      }
+    },
+    {
+      "Important": {
+        "synonyms": [
+          "Don't forget about this",
+          "This is significant"
+        ],
+        "unicode": "270d",
+        "expression_id": 2,
+        "resource_name": "emoji_270d"
+      }
+    },
+    {
+      "Remember": {
+        "synonyms": [
+          "Review this",
+          "Keep this for discussions"
+        ],
+        "unicode": "1f440",
+        "expression_id": 3,
+        "resource_name": "emoji_1f440"
+      }
+    },
+    {
+      "Familiar": {
+        "synonyms": [
+          "I've seen this before",
+          "Have you seen this before?"
+        ],
+        "unicode": "1f4a1",
+        "expression_id": 4,
+        "resource_name": "emoji_1f4a1"
+      }
+    },
+    {
+      "Nice": {
+        "synonyms": [
+          "Good example",
+          "This is what I've been looking for"
+        ],
+        "unicode": "1f44d",
+        "expression_id": 5,
+        "resource_name": "emoji_1f44d"
+      }
+    }
+  ]
+}

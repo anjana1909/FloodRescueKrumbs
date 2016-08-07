@@ -1,0 +1,62 @@
+{
+  "intents": [
+    {
+      "Bad": {
+        "synonyms": [
+          "What's wrong",
+          "Nightmare",
+          "This is bad"
+        ],
+        "unicode": "1f621",
+        "expression_id": 1,
+        "resource_name": "emoji_1f621"
+      }
+    },
+    {
+      "Very Bad": {
+        "synonyms": [
+          "This is awful",
+          "Need to do something about this"
+        ],
+        "unicode": "1f631",
+        "expression_id": 2,
+        "resource_name": "emoji_1f631"
+      }
+    },
+    {
+      "Help": {
+        "synonyms": [
+          "What should I do?",
+          "Please help me"
+        ],
+        "unicode": "1f613",
+        "expression_id": 3,
+        "resource_name": "emoji_1f613"
+      }
+    },
+    {
+      "Mild": {
+        "synonyms": [
+          "Need to fix",
+          "Pay close attention to this"
+        ],
+        "unicode": "1f6af",
+        "expression_id": 4,
+        "resource_name": "emoji_1f6af"
+      }
+    },
+    {
+      "Medium": {
+        "synonyms": [
+          "Remember this",
+          "This could get worse"
+        ],
+        "unicode": "1f61e",
+        "expression_id": 5,
+        "resource_name": "emoji_1f61e"
+      }
+    }
+  ]
+}
+
+       

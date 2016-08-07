@@ -1,0 +1,65 @@
+{
+  "intents": [
+    {
+      "Trash": {
+        "synonyms": [
+          "Pick up your trash!",
+          "Where are the garbage trucks?",
+          "Need more trash cans",
+          "Too much trash here"
+        ],
+        "unicode": "1f621",
+        "expression_id": 1,
+        "resource_name": "emoji_1f621"
+      }
+    },
+    {
+      "Graffiti": {
+        "synonyms": [
+          "Clean this up!",
+          "This shouldn't be here",
+          "Wow that's bad"
+        ],
+        "unicode": "1f612",
+        "expression_id": 2,
+        "resource_name": "emoji_1f612"
+      }
+    },
+    {
+      "Plants": {
+        "synonyms": [
+          "Bad Blight here",
+          "Too many weeds",
+          "Grass is too long cut it"
+        ],
+        "unicode": "1f33f",
+        "expression_id": 3,
+        "resource_name": "emoji_1f33f"
+      }
+    },
+    {
+      "Sidewalk": {
+        "synonyms": [
+          "Looks terrible",
+          "Clean it up!",
+          "Nightmare"
+        ],
+        "unicode": "1f44e",
+        "expression_id": 4,
+        "resource_name": "emoji_1f44e"
+      }
+    },
+    {
+      "Drains": {
+        "synonyms": [
+          "No Dumping",
+          "Keep this clean",
+          "Yikes"
+        ],
+        "unicode": "1f6af",
+        "expression_id": 5,
+        "resource_name": "emoji_1f6af"
+      }
+    }
+  ]
+}

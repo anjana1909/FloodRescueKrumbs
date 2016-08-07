@@ -1,0 +1,65 @@
+{
+  "intents": [
+    {
+      "Bugs": {
+        "synonyms": [
+          "Too many bugs here",
+          "Someone should spray this area",
+          "Getting bit by bugs!"
+        ],
+        "unicode": "1f577",
+        "expression_id": 1,
+        "resource_name": "emoji_1f577"
+      }
+    },
+    {
+      "Safety": {
+        "synonyms": [
+          "This area needs more lights",
+          "Where are the security guards?",
+          "I don't feel safe here"
+        ],
+        "unicode": "1f61f",
+        "expression_id": 2,
+        "resource_name": "emoji_1f61f"
+      }
+    },
+    {
+      "Smog": {
+        "synonyms": [
+          "Hard to breathe here",
+          "Be careful everyone",
+          "Too much smog here"
+        ],
+        "unicode": "1f637",
+        "expression_id": 3,
+        "resource_name": "emoji_1f637"
+      }
+    },
+    {
+      "Noise": {
+        "synonyms": [
+          "Too loud!",
+          "Construction at this hour?"
+        ],
+        "unicode": "1f61e",
+        "expression_id": 4,
+        "resource_name": "emoji_1f61e"
+      }
+    },
+    {
+      "Greenery": {
+        "synonyms": [
+          "Damaged tree",
+          "Safety concern",
+          "Send clean up crew"
+        ],
+        "unicode": "1f333",
+        "expression_id": 5,
+        "resource_name": "emoji_1f333"
+      }
+    }
+  ]
+}
+
+       

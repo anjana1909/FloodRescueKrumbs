@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "Help": {
+        "synonyms": [
+          "Ask experts",
+          "This is critical",
+          "How do I control this?"
+        ],
+        "unicode": "1f914",
+        "expression_id": 1,
+        "resource_name": "emoji_1f914"
+      }
+    },
+    {
+      "Lots": {
+        "synonyms": [
+          "Out of control",
+          "This is dangerous"
+        ],
+        "unicode": "1f628",
+        "expression_id": 2,
+        "resource_name": "emoji_1f628"
+      }
+    },
+    {
+      "Mild": {
+        "synonyms": [
+          "Controllable",
+          "Remember to take care of"
+        ],
+        "unicode": "1f611",
+        "expression_id": 3,
+        "resource_name": "emoji_1f611"
+      }
+    },
+    {
+      "Medium": {
+        "synonyms": [
+          "Medium amount of bugs",
+          "Not so bad"
+        ],
+        "unicode": "1f610",
+        "expression_id": 4,
+        "resource_name": "emoji_1f610"
+      }
+    },
+    {
+      "What's This?": {
+        "synonyms": [
+          "Haven't seen this before",
+          "How do I take care of these type of bugs?"
+        ],
+        "unicode": "1f41b",
+        "expression_id": 5,
+        "resource_name": "emoji_1f41b"
+      }
+    }
+  ]
+}
